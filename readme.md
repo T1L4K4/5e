@@ -1,6 +1,6 @@
-**********************************************
-* 5e . HTML5 ReSPONSIVE WeB DeSIGN FRAMeWORK *
-**********************************************
+******************************************
+5e . HTML5 ReSPONSIVE WeB DeSIGN FRAMeWORK
+******************************************
 
 This is a very simple responsive web design framework based on HTML5 and CSS3.
 
